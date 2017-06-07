@@ -1,4 +1,4 @@
-# MySecondDiscordBot
+# MyFirstDiscordBot
 
 DiscordBot LOL
 
